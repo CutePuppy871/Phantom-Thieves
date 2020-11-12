@@ -1,3 +1,5 @@
+[11/12/2020] Down for maintenance. Hopefully fixing bug where it crashes your game everytime you try to join the server. Modpack will be up later today.
+
 [11/11/2020] Release 1.0.0
 
 I recommend looking at every single video settings option and deciding whether you need to alter them or not. You can see which setting does what by hovering over it with your mouse for a second.
