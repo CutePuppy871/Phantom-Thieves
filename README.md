@@ -1,3 +1,5 @@
+[11/12/2020] Bug fixed. DO NOT ENABLE "Render Regions!" KEEP IT OFF. IT'S LOCATED IN THE PERFORMANCE SETTINGS AND WILL CRASH YOUR GAME EVERYTIME YOU TRY TO LOAD INTO A WORLD IF ENABLED. also modpack updated to 1.0.1 so horaaay :D
+
 [11/12/2020] Down for maintenance. Hopefully fixing bug where it crashes your game everytime you try to join the server. Modpack will be up later today.
 
 [11/11/2020] Release 1.0.0
